@@ -1,4 +1,4 @@
-# weekly_timesheet_reminder
+# Weekly Timesheet Reminder (General)
 Randomised Weekly Reminder
 
 Fun little project of mine 💻 
