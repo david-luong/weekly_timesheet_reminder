@@ -13,7 +13,7 @@ This might not be the biggest problem in the world, however, it reminds us that 
 
 To not lose the personal touch, I have created a python program which automatically creates phrases such as: 
 "Hey everyone, weekly reminder to submit your timesheets! 😃"
-And automatically mix things up each time it is run!
+and automatically mix things up each time it is run!
 
 If you haven't realised already, I am a big emoji user 😆 
 
