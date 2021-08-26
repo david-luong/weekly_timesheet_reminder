@@ -24,5 +24,9 @@ random_string = "{} {}, weekly reminder to submit your timesheets! {}".format(st
 
 #inclusion of use_aliases=True for full dictionary of emojis
 string_with_emojis = emoji.emojize(random_string,use_aliases=True)
-bold_string = "\033[1m"+string_with_emojis+"\033[0m"
-print(bold_string)
+#for MAC OSX
+#bold_string = "\033[1m"+string_with_emojis+"\033[0m"
+#print(bold_string)
+#for Windows
+print(string_with_emojis)
+
